@@ -21,6 +21,11 @@ local Config = {
 		CleanupY = -200, -- debris below this height is removed
 	},
 
+	Points = {
+		PerTick = 1, -- points awarded each tick
+		TickSeconds = 1, -- seconds between ticks
+	},
+
 	Round = {
 		-- No time limit: rounds end by reaching the goal or last player standing.
 		IntermissionSeconds = 5,
