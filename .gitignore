@@ -1,0 +1,24 @@
+﻿# Local / personal
+CLAUDE.local.md
+
+# Rojo / Roblox Studio build outputs and backups
+*.rbxl.lock
+*.rbxlx.lock
+*.rbxl.bak
+*.rbxlx.bak
+/build/
+*.rbxm.tmp
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.swp
+*~
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
